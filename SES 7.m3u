@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="IPTV FOR ANDROID & GOOGLE TV"
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml, https://wasabi-egg.b-cdn.net/ASIA_CONVERGE.xml, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml, https://wasabi-egg.b-cdn.net/ASIA_CONVERGE.xml, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://ott.djdoolky76.io/api/xmltv"
 
 **********Cignal-TV**********
 
