@@ -674,6 +674,9 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="heartofasia.ph" tvg-name="Heart of Asia" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/custom/Heart%20of%20Asia.png?raw=true" group-title="Converge", Heart of Asia
 https://ott.djdoolky76.io/api/streams/279/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODQzMDY2NCwiZXhwIjoxNzkwNTUzNTk5fQ.nL3vPtOfQcGj5wxyt6ktCHuG_YvW7DuRkVZAqmyK5kE
 
+#EXTINF:-1 tvg-id="iheartmovies.ph" tvg-name="I Heart Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="Converge", I Heart Movies
+https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
