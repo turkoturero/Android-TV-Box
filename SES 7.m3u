@@ -366,7 +366,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf
 https://ucdn.mediaquest.com.ph/bpk-tv/crime_invest/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD956-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",NCAA NXT
+#EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/6be28a0381fdb1ac58dcd2e3b07581d0459abff4/misc/custom/ncaa-nxt-ph.png" group-title="Cignal",NCAA NXT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd
