@@ -1200,13 +1200,13 @@ https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.iyad.space/sony-pix.webp" group-title="World TV", Sony Pix HD
-http://sansatplus.net:88/live/02026324217511/esjB5vcsIahF0bh/96182
+http://sansatplus.net:88/live/02026324217511/esjB5vcsIahF0bh/96182.ts
 
 #EXTINF:-1 tvg-id="Star.Movies.in" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/countries/india/star-movies-hd-in.png?raw=true" group-title="World TV", Star Movies HD
-http://sansatplus.net:88/live/02026324217511/esjB5vcsIahF0bh/93668
+http://sansatplus.net:88/live/02026324217511/esjB5vcsIahF0bh/93668.ts
 
 #EXTINF:-1 tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png" group-title="World TV", Star Movies Select HD
-http://sansatplus.net:88/live/02026324217511/esjB5vcsIahF0bh/93669
+http://sansatplus.net:88/live/02026324217511/esjB5vcsIahF0bh/93669.ts
 
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://i.imgur.com/b5YKiRd.png" group-title="World TV", Animax
 https://ott.djdoolky76.io/api/streams/6/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
