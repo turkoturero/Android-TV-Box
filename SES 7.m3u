@@ -1236,11 +1236,14 @@ http://us1.amfmph.com:8872/stream?type=.aac
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="Ph Live Radio",93.1 Monster Radio RX 
 https://in-icecast.eradioportal.com:8443/monsterrrx
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://apk.radyoph.com/upload/1776826235_mellow_b947_fm.png" group-title="Ph Live Radio",Mellow 94.7 BFM
+#EXTINF:-1 tvg-id="" tvg-logo="https://apk.radyoph.com/upload/1776826235_mellow_b947_fm.png" group-title="Ph Live Radio",94.7 Mellow BFM
 https://streamer.radio.co/sec36cd5f1/listen
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="Ph Live Radio",95.5 Eagle FM
 http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dwxt961tarlac.radio12345.com/users.img/3381748/1728915037/icon_thumb_80_1728915037.PNG" group-title="Ph Live Radio",96.1 One FM Tarlac
+https://uk21freenew.listen2myradio.com/live.mp3?typeportmount=s1_15914_stream_415371132
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="Ph Live Radio",96.3 Easy Rock
 https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
@@ -1253,6 +1256,9 @@ https://hrmanila.radioca.st/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="Ph Live Radio",98.7 The Master's Touch
 http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagescdn.mixlr.com/b2d76602858a0f197bccd6769b47ff86.png?w=2048&h=2048&fit=cover&format=auto&q=80&dpr=1&bg=47ADD8" group-title="Ph Live Radio",99.1 GV
+https://listen.mixlr.com/5b8e3ed72a939f09e7b24085e3ecc111
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="Ph Live Radio",101.1 Yes Fm
 https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
