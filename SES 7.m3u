@@ -1203,7 +1203,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 http://sansatplus.net:88/live/02081211550857/hc8RF6JdRA9qESN/96182.ts
 
 #EXTINF:-1 tvg-id="Star.Movies.in" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/countries/india/star-movies-hd-in.png?raw=true" group-title="World TV", Star Movies HD
-http://sansatplus.net:88/live/02081211550857/hc8RF6JdRA9qESN/93668.ts
+http://103.155.18.184:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png" group-title="World TV", Star Movies Select HD
 http://sansatplus.net:88/live/02081211550857/hc8RF6JdRA9qESN/93669.ts
