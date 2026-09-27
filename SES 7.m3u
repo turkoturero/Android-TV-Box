@@ -1200,7 +1200,7 @@ https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.iyad.space/sony-pix.webp" group-title="World TV", Sony Pix HD
-http://line.krishka.xyz:80/live/CedricEsserTV/60697A/63582.ts
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B2:10:55&stream=441205&extension=ts&play_token=LTNS72nx89
 
 #EXTINF:-1 tvg-id="Star.Movies.in" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/countries/india/star-movies-hd-in.png?raw=true" group-title="World TV", Star Movies HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B2:10:55&stream=441216&extension=ts&play_token=DvWAYwAbFE
