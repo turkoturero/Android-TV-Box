@@ -1323,16 +1323,16 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 https://p4kp.rjmbts.workers.dev/22124.m3u8
 
 #EXTINF:-1 tvg-id="Star.Movies.in" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/countries/india/star-movies-hd-in.png?raw=true" group-title="World TV", Star Movies HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:C4:10:6F&stream=282639&extension=ts&play_token=7UcrlJRobS
+http://line.krishka.xyz:80/live/berzantatli/527C93/63511.ts
  
 #EXTINF:-1 tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png" group-title="World TV", Star Movies Select HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:C4:10:6F&stream=155729&extension=ts&play_token=fjcDk4Z0gE 
+http://line.krishka.xyz:80/live/berzantatli/527C93/63510.ts
 
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://i.imgur.com/b5YKiRd.png" group-title="World TV", Animax
 https://ott.djdoolky76.io/api/streams/6/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODAxNTcxNCwiZXhwIjoxNzkwNTUzNTk5fQ.g4Cbic93tY4CjwC7cjqasTjVsJWy-lDk4M_X6R0j6o0
 
 #EXTINF:-1 tvg-id="63514" tvg-name="National Geographic HD" tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png" group-title="World TV", National Geographic HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:C4:10:6F&stream=155733&extension=ts&play_token=mySvsLxmRH
+http://line.krishka.xyz:80/live/berzantatli/527C93/63514.ts 
 
 #EXTINF:-1 tvg-id="63481" tvg-name="Nat Geo Wild HD" tvg-logo="https://img.logo-cdn.cc/natgeowild.png" group-title="World TV", Nat Geo Wild HD
 http://line.krishka.xyz:80/live/berzantatli/527C93/63481.ts 
