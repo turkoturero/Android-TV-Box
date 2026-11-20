@@ -1359,6 +1359,9 @@ https://stream.zeno.fm/nz4ydgnu6hhvv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="Ph Live Radio",92.3 FM RADIO Manila
 http://us1.amfmph.com:8872/stream?type=.aac
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://apk.radyoph.com/upload/1794610939_BarangayLSbaguio.png" group-title="Ph Live Radio",92.7 Barangay LS Baguio
+https://prox.radyoph.com/s/379b83ddb9f3cc404c647d78f1918740
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="Ph Live Radio",93.1 Monster Radio RX 
 https://in-icecast.eradioportal.com:8443/monsterrrx
 
